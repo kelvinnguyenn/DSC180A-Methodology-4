@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
 
-Jaeda Gantulga
+Kelvin Nguyen, Jaeda Gantulga
